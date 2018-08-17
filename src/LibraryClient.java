@@ -2,7 +2,7 @@ import javafx.application.Application;
 import javafx.stage.Stage;
 
 /*
- * Allan Yu CMSC214 4/26/17 Project 13
+ * Allan Yu
  * Eclipse SE1.8
  */
 
